@@ -1,3 +1,3 @@
 # first-demo
 This is my first project
-Author Rohan Polelwar 
+Author Rohan Polelwar the trader
